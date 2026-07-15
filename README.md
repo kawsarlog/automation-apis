@@ -21,7 +21,7 @@
 
 ## At a Glance
 
-> **16,000** production-ready Automation APIs for orchestrating workflows and killing manual busywork.
+> **16,000** production-ready Automation APIs.
 
 A focused, always-fresh index of Automation APIs for orchestrating workflows and killing manual busywork. Every entry is rated, shows real user counts, and is refreshed daily — so you find the right one fast.
 
