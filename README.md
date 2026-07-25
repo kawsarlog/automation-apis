@@ -29,7 +29,7 @@ A focused, always-fresh index of Automation APIs for orchestrating workflows and
 |--------|-------|
 | **Total APIs** | **16,000** |
 | **Categories** | 1 |
-| **Last updated** | 2026-07-16 |
+| **Last updated** | 2026-07-25 |
 | **Update cadence** | Daily, automated |
 
 ## The Categories
@@ -87,15 +87,11 @@ Workflow orchestration, task automation, and RPA endpoints that remove manual bu
 - **Fast to scan.** Ratings and real usage numbers surface the APIs worth your time.
 - **Consistent.** Every category follows the same clean, sortable layout.
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=kawsarlog/automation-apis&type=Date)](https://www.star-history.com/#kawsarlog/automation-apis&Date)
-
 ---
 
 <div align="center">
 
-**16,000 APIs** across **1 categories** — updated 2026-07-16
+**16,000 APIs** across **1 categories** — updated 2026-07-25
 <br /><sub>If this saved you time, a star helps others find it.</sub>
 
 </div>
